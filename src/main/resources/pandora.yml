@@ -1,0 +1,37 @@
+case:
+  0:
+    item: DIAMOND_HELMET
+    data: 0
+    amount: 1
+    chance: 30.0
+    name: ''
+    enchants:
+      - 'PROTECTION_ENVIRONMENTAL:4'
+      - 'DURABILITY:3'
+  1:
+    item: DIAMOND_CHESTPLATE
+    data: 0
+    amount: 1
+    chance: 30.0
+    name: ''
+    enchants:
+      - 'PROTECTION_ENVIRONMENTAL:4'
+      - 'DURABILITY:3'
+  2:
+    item: DIAMOND_LEGGINGS
+    data: 0
+    amount: 1
+    chance: 30.0
+    name: ''
+    enchants:
+      - 'PROTECTION_ENVIRONMENTAL:4'
+      - 'DURABILITY:3'
+  3:
+    item: DIAMOND_BOOTS
+    data: 0
+    amount: 1
+    chance: 30.0
+    name: ''
+    enchants:
+      - 'PROTECTION_ENVIRONMENTAL:4'
+      - 'DURABILITY:3'

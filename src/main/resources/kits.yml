@@ -1,0 +1,58 @@
+kits:
+  start:
+    name: '&cStart'
+    item: LEATHER_HELMET
+    cooldown: 60000
+    permission: cm.kits.start
+    items:
+      0:
+        item: DIAMOND_PICKAXE
+        data: 0
+        amount: 1
+        name: ''
+        enchants:
+          - 'DIG_SPEED:5'
+          - 'DURABILITY:3'
+          - 'LOOT_BONUS_BLOCKS:3'
+      1:
+        item: COOKED_BEEF
+        data: 0
+        amount: 1
+        name: ''
+        enchants: []
+      2:
+        item: ENDER_CHEST
+        data: 0
+        amount: 1
+        name: ''
+        enchants: []
+      3:
+        item: TORCH
+        data: 0
+        amount: 16
+        name: ''
+        enchants: []
+      4:
+        item: WOOD
+        data: 0
+        amount: 64
+        name: ''
+        enchants: []
+      5:
+        item: STONE
+        data: 0
+        amount: 64
+        name: '&aGenerator Stone'
+        enchants: []
+  vip:
+    name: '&aVip'
+    item: CHAINMAIL_HELMET
+    cooldown: 3600000
+    permission: cm.kits.vip
+    items:
+      0:
+        item: APPLE
+        data: 0
+        amount: 8
+        name: ''
+        enchants: []

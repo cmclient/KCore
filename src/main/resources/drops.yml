@@ -1,0 +1,97 @@
+drops:
+  0:
+    item: DIAMOND_BLOCK
+    data: 0
+    chance: 100.0
+    xp: 15
+    exp: 15
+  1:
+    item: EMERALD_BLOCK
+    data: 0
+    chance: 100.0
+    xp: 15
+    exp: 15
+  2:
+    item: GOLD_BLOCK
+    data: 0
+    chance: 100.0
+    xp: 15
+    exp: 15
+  3:
+    item: IRON_BLOCK
+    data: 0
+    chance: 100.0
+    xp: 15
+    exp: 15
+  4:
+    item: COAL_BLOCK
+    data: 0
+    chance: 30.0
+    xp: 25
+    exp: 25
+  5:
+    item: REDSTONE
+    data: 0
+    chance: 30.0
+    xp: 25
+    exp: 25
+  6:
+    item: BONE
+    data: 0
+    chance: 30.0
+    xp: 25
+    exp: 25
+  7:
+    item: ENDER_PEARL
+    data: 0
+    chance: 10.0
+    xp: 35
+    exp: 35
+  8:
+    item: WOOD
+    data: 0
+    chance: 30.0
+    xp: 25
+    exp: 25
+  9:
+    item: ARROW
+    data: 0
+    chance: 30.0
+    xp: 25
+    exp: 25
+  10:
+    item: STRING
+    data: 0
+    chance: 30.0
+    xp: 25
+    exp: 25
+  11:
+    item: SLIME_BALL
+    data: 0
+    chance: 30.0
+    xp: 25
+    exp: 25
+  12:
+    item: OBSIDIAN
+    data: 0
+    chance: 50.0
+    xp: 20
+    exp: 20
+  13:
+    item: TNT
+    data: 0
+    chance: 2.50
+    xp: 75
+    exp: 75
+  14:
+    item: APPLE
+    data: 0
+    chance: 30.0
+    xp: 25
+    exp: 25
+  15:
+    item: BOOKSHELF
+    data: 0
+    chance: 40.0
+    xp: 15
+    exp: 15

@@ -1,0 +1,64 @@
+# KCore 1.1.0
+
+# MySQL database configuration. Modify these settings to connect to your MySQL database.
+mysql:
+  type: mysql
+  host: 127.0.0.1
+  port: 3306
+  database: mc
+  user: mc
+  password: password
+
+# Automated server messages. You can edit these messages to customize server announcements.
+automsg:
+  messages:
+    - ' &8>> &7Chcesz sie dowiedziec co posiada ranga &b&lSPONSOR? &7Wpisz: &9&l/sponsor'
+    - ' &8>> &7Wszystkie rangi oraz inne rzeczy dostepne w sklepie: &a&lwww.coremax.pl'
+    - ' &8>> &7Nasz serwer Discord: &a&ldc.coremax.pl'
+    - ' &8>> &7Przy zakupie rangi &b&lSponsor &7otrzymasz &9&lPremium Case &7za darmo!'
+    - ' &8>> &7Nie znasz komend? Wpisz &e&l/pomoc'
+    - ' &8>> &7Drop z kamienia, &9premium case&7, &2pandory &7sprawdzisz pod komenda &c&l/drop'
+    - ' &8>> &7Sklep za monety wypadajace z kamienia znajdziesz pod komenda &e&l/sklep'
+    - ' &8>> &7Liste dostepnych warpow znajdziesz pod komenda &9&l/warp'
+    - ' &8>> &7Nie wybucha Ci tnt na wrogiej gildii? Sprawdz czy posiadaja ochrone: &3&l/g info <tag>'
+    - ' &8>> &7Aktualna granica mapy wynosi &a&l8000x8000 &7blokow'
+    - ' &8>> &7Dziekujemy Ci za to ze to wlasnie na naszym serwerze &9spedzasz czas :)'
+
+# Border size configuration. Set the size of the world border here.
+border:
+  size: 8000
+
+# Chat settings. Customize how chat messages are displayed.
+chat:
+  enabled: true  # Set to 'false' to disable in-game chat.
+  vip: false     # Set to 'true' to enable VIP-only chat.
+  lvl: false     # Set to 'true' to enable chat level requirements.
+  format:
+    global: ' {CMPACK}{TAG}&8[&7{POINTS}&8]{PREFIX}{PLAYER} §8» &f{MESSAGE}'  # Customize chat message format for global chat.
+    admin: ' {CMPACK}{PREFIX}{PLAYER} §8» &f{MESSAGE}'                        # Customize chat message format for admin chat.
+
+# Anti-griefing settings. Specify which commands and ops can bypass grief protection.
+antigrief:
+  commands:
+    - default  # Add or remove players that can use high risk commands.
+  ops:
+    - default  # Add or remove players that can have op.
+
+# Spawn and check locations. Modify these coordinates and angles as needed.
+spawn:
+  x: 0.0
+  y: 85.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+
+check:
+  x: 0.0
+  y: 85.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+
+trees:
+  blockProcessingLimit: 150
+  fallingLeaves: true

@@ -1,0 +1,23 @@
+villagers:
+  stahu:
+    item: BARRIER
+    data: 0
+    amount: 1
+    name: '&aItemy'
+    lore:
+      - 'Itemy'
+    items:
+      0:
+        item: DIAMOND_HELMET
+        data: 0
+        amount: 1
+        price: 64
+        name: '&cHelm'
+        enchants:
+          - 'PROTECTION_ENVIRONMENTAL:4'
+      1:
+        item: GOLD_BLOCK
+        data: 0
+        amount: 64
+        price: 10
+        name: ''

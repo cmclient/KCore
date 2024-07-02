@@ -1,0 +1,10 @@
+shop:
+  0:
+    type: BUY
+    item: DIAMOND_HELMET
+    data: 0
+    amount: 1
+    price: 2.50
+    name: '&cHelm'
+    enchants:
+      - 'PROTECTION_ENVIRONMENTAL:4'

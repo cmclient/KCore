@@ -1,0 +1,50 @@
+limits:
+  0:
+    item: GOLDEN_APPLE
+    data: 1
+    limit: 3
+    requiredName: ''
+    displayName: '&8>> &cKox'
+    displaySlot: 10
+    enchants: []
+  1:
+    item: GOLDEN_APPLE
+    data: 0
+    limit: 12
+    requiredName: ''
+    displayName: '&8>> &cRefil'
+    displaySlot: 12
+    enchants: []
+  2:
+    item: ENDER_PEARL
+    data: 0
+    limit: 4
+    requiredName: ''
+    displayName: '&8>> &5Ender Perla'
+    displaySlot: 14
+    enchants: []
+  3:
+    item: TNT
+    data: 0
+    limit: 5
+    requiredName: '&8>> &7Rzucane TNT'
+    displayName: '&8>> &cRzucane TNT'
+    displaySlot: 16
+    enchants:
+      - 'DURABILITY:1'
+  4:
+    item: SNOW_BALL
+    data: 0
+    limit: 16
+    requiredName: '&8>> &fSniezki'
+    displayName: ''
+    displaySlot: 29
+    enchants: []
+  5:
+    item: EMERALD_BLOCK
+    data: 0
+    limit: 0
+    requiredName: ''
+    displayName: '&8>> &aEmeraldy'
+    displaySlot: 33
+    enchants: []

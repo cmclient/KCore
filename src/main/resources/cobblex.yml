@@ -1,0 +1,64 @@
+case:
+  0:
+    item: APPLE
+    data: 0
+    amount: 8
+    chance: 20.0
+    name: ''
+    enchants: []
+  1:
+    item: ENCHANTMENT_TABLE
+    data: 0
+    amount: 1
+    chance: 20.0
+    name: ''
+    enchants: []
+  2:
+    item: GOLDEN_APPLE
+    data: 0
+    amount: 4
+    chance: 20.0
+    name: ''
+    enchants: []
+  3:
+    item: GOLDEN_APPLE
+    data: 1
+    amount: 2
+    chance: 20.0
+    name: ''
+    enchants: []
+  4:
+    item: DIAMOND_BLOCK
+    data: 0
+    amount: 64
+    chance: 20.0
+    name: ''
+    enchants: []
+  5:
+    item: EMERALD_BLOCK
+    data: 0
+    amount: 64
+    chance: 20.0
+    name: ''
+    enchants: []
+  6:
+    item: GOLD_BLOCK
+    data: 0
+    amount: 64
+    chance: 20.0
+    name: ''
+    enchants: []
+  7:
+    item: IRON_BLOCK
+    data: 0
+    amount: 64
+    chance: 20.0
+    name: ''
+    enchants: []
+  9:
+    item: TNT
+    data: 0
+    amount: 64
+    chance: 10.0
+    name: ''
+    enchants: []
